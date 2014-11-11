@@ -1,0 +1,31 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+ 
+ 
+ 
+ .row{ display:flex;
+ min-height:2.5em;}
+ 
+ 
+ .meta {
+	 background:#03F;}
+	 
+ .logo{
+	 background:navy;}
+	 
+.nav{ background:#999;}
+
+.nav >.lynk{ border: 2px solid #000;
+		padding:.25em;
+		flex-grow:1;
+
+}
+
+.Hero{height:325px; background:#900;}
+
+.feature .feature-pic{ width:100%; height:auto;} 
+ 
+ 
